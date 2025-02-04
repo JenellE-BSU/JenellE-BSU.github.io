@@ -1,2 +1,2 @@
-# JenellE-BSU.github.io
+# My page
 This is my page: [JenellE-BSU.github.io](https://jenelle-bsu.github.io/)
